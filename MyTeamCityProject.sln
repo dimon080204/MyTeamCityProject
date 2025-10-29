@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTeamCityProject", "MyTeamCityProject\MyTeamCityProject.csproj", "{1B93B316-D7C5-4DB8-AEB2-B20F9EC484CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTeamCityProjectTests", "MyTeamCityProjectTests\MyTeamCityProjectTests.csproj", "{A2E53F65-59AB-40A2-9E91-04054368D733}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1B93B316-D7C5-4DB8-AEB2-B20F9EC484CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B93B316-D7C5-4DB8-AEB2-B20F9EC484CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B93B316-D7C5-4DB8-AEB2-B20F9EC484CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E53F65-59AB-40A2-9E91-04054368D733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E53F65-59AB-40A2-9E91-04054368D733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E53F65-59AB-40A2-9E91-04054368D733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E53F65-59AB-40A2-9E91-04054368D733}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
